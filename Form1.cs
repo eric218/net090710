@@ -32,7 +32,7 @@ namespace WindowsFormsApp1
         public void Button2_Click(object sender, EventArgs e)
         {
   
-            //password = Password.Text;
+            //password = Password.Text;111
             Console.WriteLine(@"[{0}]username:{1},password:{2}", DateTimeOffset.Now, "s", "f");
 
             //createTab();
